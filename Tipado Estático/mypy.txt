@@ -1,0 +1,1 @@
+mypy reto_numero_primo.py --check-untyped-defs
